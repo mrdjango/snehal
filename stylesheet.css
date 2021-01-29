@@ -533,7 +533,7 @@ body {
 		background-image: url('bulb_orange.png');
 		opacity: 1;
 	}
-}
+} 
 @-o-keyframes bulb_glow_orange {
 	0%{
 		background-image: url('bulb.png');
@@ -1250,7 +1250,7 @@ audio {
 
 .balloon-border{
 	position: fixed;
-	top:100%;
+	top:90%;
 	opacity: 0.5;
 	z-index: 9999;
 }
