@@ -533,7 +533,7 @@ body {
 		background-image: url('bulb_orange.png');
 		opacity: 1;
 	}
-} 
+}
 @-o-keyframes bulb_glow_orange {
 	0%{
 		background-image: url('bulb.png');
